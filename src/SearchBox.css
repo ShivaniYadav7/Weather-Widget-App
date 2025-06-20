@@ -1,0 +1,13 @@
+.SearchBox{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.SearchBox form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
